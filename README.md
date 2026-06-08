@@ -71,33 +71,92 @@ ship projects, document them, keep building
 > objective
 become stronger in security engineering
 
-🚀 Skill Pipeline
-<p align="center"> <img src="https://img.shields.io/badge/Networking_Fundamentals-7c3aed?style=flat-square" /> <img src="https://img.shields.io/badge/→-0d1117?style=flat-square" /> <img src="https://img.shields.io/badge/Linux_Hardening-7c3aed?style=flat-square" /> <img src="https://img.shields.io/badge/→-0d1117?style=flat-square" /> <img src="https://img.shields.io/badge/Python_Automation-4DFF88?style=flat-square" /> <img src="https://img.shields.io/badge/→-0d1117?style=flat-square" /> <img src="https://img.shields.io/badge/Security_Operations-4DFF88?style=flat-square" /> <img src="https://img.shields.io/badge/→-0d1117?style=flat-square" /> <img src="https://img.shields.io/badge/Threat_Detection-4DFF88?style=flat-square" /> <img src="https://img.shields.io/badge/→-0d1117?style=flat-square" /> <img src="https://img.shields.io/badge/Penetration_Testing-4DFF88?style=flat-square" /> <img src="https://img.shields.io/badge/→-0d1117?style=flat-square" /> <img src="https://img.shields.io/badge/Security_Engineering-7c3aed?style=flat-square" /> </p> <p align="center">```mermaid %%{init: {'theme':'dark','flowchart':{'nodeSpacing':20,'rankSpacing':24}} }%% flowchart LR A[Networking] --> B[Linux] B --> C[Python] C --> D[Security Ops] D --> E[Threat Detection] E --> F[Pentest Labs] F --> G[Security Engineering]
-classDef purple fill:#2d1b47,stroke:#b388ff,color:#ffffff;
-classDef green fill:#10261a,stroke:#4DFF88,color:#ffffff;
-
-class A,B purple;
-class C,D,E,F,G green;
-</p>```
-
-
-## 📡 Active Focus
+## 🚀 Skill Pipeline
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=18,19,20,21,22&height=52&section=header&text=ACTIVE%20FOCUS&fontSize=22&fontColor=ffffff&animation=twinkling" />
+  <img src="https://img.shields.io/badge/Networking-7c3aed?style=flat-square" />
+  <img src="https://img.shields.io/badge/→-0d1117?style=flat-square" />
+  <img src="https://img.shields.io/badge/Linux-4DFF88?style=flat-square" />
+  <img src="https://img.shields.io/badge/→-0d1117?style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-7c3aed?style=flat-square" />
+  <img src="https://img.shields.io/badge/→-0d1117?style=flat-square" />
+  <img src="https://img.shields.io/badge/SecOps-4DFF88?style=flat-square" />
+  <img src="https://img.shields.io/badge/→-0d1117?style=flat-square" />
+  <img src="https://img.shields.io/badge/Pentest-7c3aed?style=flat-square" />
+  <img src="https://img.shields.io/badge/→-0d1117?style=flat-square" />
+  <img src="https://img.shields.io/badge/Security_Engineering-4DFF88?style=flat-square" />
 </p>
 
-| Area | Status | Next Move |
-|---|---:|---|
-| Linux Administration | Learning | Hardening + scripting |
-| Networking | Strong foundation | Lab practice |
-| Python Automation | Building | Security tools |
-| Penetration Testing | Exploring | Controlled labs |
-| Security Monitoring | Next | Logs + alerting |
-| Cloud Security | Next | Infrastructure basics |
+## 📡 Active Focus // Security Matrix
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux_Hardening-Learning-7c3aed?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Packet_Analysis-Active-4DFF88?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python_Tools-Building-7c3aed?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Threat_Detection-Next-4DFF88?style=for-the-badge" />
+</p>
 
+<table>
+  <tr>
+    <td><b>Layer</b></td>
+    <td><b>Status</b></td>
+    <td><b>Move</b></td>
+  </tr>
+  <tr>
+    <td>Linux</td>
+    <td>🟣 Hardening</td>
+    <td>Scripts + services</td>
+  </tr>
+  <tr>
+    <td>Networking</td>
+    <td>🟢 Active</td>
+    <td>Labs + packet flow</td>
+  </tr>
+  <tr>
+    <td>Python</td>
+    <td>🟢 Building</td>
+    <td>Security utilities</td>
+  </tr>
+  <tr>
+    <td>Detection</td>
+    <td>🟣 Next</td>
+    <td>Logs + alerts</td>
+  </tr>
+</table>
+
+```bash
+$ status
+[OK] linux hardening
+[OK] packet analysis
+[OK] automation scripts
+[... ] detection engineering
+[... ] cloud security
+```
+### 3) Replace the broken stats/trophies area with a cleaner telemetry deck
+Drop the trophy widget for now. Use this instead:
+
+```md
+## 📊 Live Telemetry
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=niduwara-j&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" height="180" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niduwara-j&layout=compact&theme=midnight-purple&hide_border=true&border_radius=12" height="180" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=niduwara-j&theme=midnight-purple&hide_border=true&border_radius=12" height="180" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=niduwara-j&theme=github-compact&bg_color=0d1117&color=4DFF88&line=7c3aed&point=4DFF88&area=true&hide_border=true" alt="Activity graph" />
+</p>
+
+<!-- Optional, keep only if it loads reliably
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=niduwara-j&theme=dracula&no-frame=true&no-bg=true&margin-w=10&row=1" alt="trophies" />
+</p>
+-->
+```
 ## 🎯 Current Mission Log
 
 ```text
@@ -134,8 +193,13 @@ Security Engineer
 <p align="center"> <a href="https://www.linkedin.com/in/niduwara-jayasiri-2169a33ab/"> <img src="https://img.shields.io/badge/LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
 🐍 Contribution Snake
 <p align="center"> <img src="https://raw.githubusercontent.com/niduwara-j/niduwara-j/output/github-snake-dark.svg" alt="snake animation" /> </p>
-🖥️ Security Operations Feed
-<p align="center"> <img src="./binary_terminal_cyber.gif" width="900" alt="Security feed animation" /> </p>
+
+## 🖥️ Security Operations Feed
+
+<p align="center">
+  <img src="./binary_terminal_cyber.gif" width="900" alt="Security feed animation" />
+</p>
+
 📂 Featured Projects
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=18,19,20,21,22&height=52&section=header&text=FEATURED%20PROJECTS&fontSize=22&fontColor=ffffff&animation=twinkling" /> </p>
 
