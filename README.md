@@ -132,31 +132,7 @@ $ status
 [... ] detection engineering
 [... ] cloud security
 ```
-### 3) Replace the broken stats/trophies area with a cleaner telemetry deck
-Drop the trophy widget for now. Use this instead:
 
-```md
-## 📊 Live Telemetry
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niduwara-j&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" height="180" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niduwara-j&layout=compact&theme=midnight-purple&hide_border=true&border_radius=12" height="180" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=niduwara-j&theme=midnight-purple&hide_border=true&border_radius=12" height="180" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=niduwara-j&theme=github-compact&bg_color=0d1117&color=4DFF88&line=7c3aed&point=4DFF88&area=true&hide_border=true" alt="Activity graph" />
-</p>
-
-<!-- Optional, keep only if it loads reliably
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=niduwara-j&theme=dracula&no-frame=true&no-bg=true&margin-w=10&row=1" alt="trophies" />
-</p>
--->
-```
 ## 🎯 Current Mission Log
 
 ```text
@@ -187,8 +163,27 @@ Security Engineer
  Cloud Security
 🛠️ Ops Stack
 <p align="center"> <img src="https://img.shields.io/badge/C-7c3aed?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Python-4DFF88?style=for-the-badge&logo=python&logoColor=0d1117" /> <img src="https://img.shields.io/badge/Java-7c3aed?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Bash-4DFF88?style=for-the-badge&logo=gnu-bash&logoColor=0d1117" /> <img src="https://img.shields.io/badge/JavaScript-7c3aed?style=for-the-badge&logo=javascript&logoColor=ffffff" /> <img src="https://img.shields.io/badge/MySQL-4DFF88?style=for-the-badge&logo=mysql&logoColor=0d1117" /> <img src="https://img.shields.io/badge/Git-7c3aed?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-4DFF88?style=for-the-badge&logo=github&logoColor=0d1117" /> <img src="https://img.shields.io/badge/Cisco-7c3aed?style=for-the-badge&logo=cisco&logoColor=white" /> </p>
-📊 Live Telemetry
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=niduwara-j&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" height="180" alt="GitHub stats" /> <img src="https://streak-stats.demolab.com/?user=niduwara-j&theme=midnight-purple&hide_border=true&border_radius=12" height="180" alt="GitHub streak" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=niduwara-j&theme=github-compact&bg_color=0d1117&color=4DFF88&line=7c3aed&point=4DFF88&area=true&hide_border=true" alt="Activity graph" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=niduwara-j&theme=dracula&no-frame=true&no-bg=true&margin-w=8&row=1" alt="trophies" /> </p>
+```md
+## 📊 Live Telemetry
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=niduwara-j&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" height="180" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niduwara-j&layout=compact&theme=midnight-purple&hide_border=true&border_radius=12" height="180" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=niduwara-j&theme=midnight-purple&hide_border=true&border_radius=12" height="180" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=niduwara-j&theme=github-compact&bg_color=0d1117&color=4DFF88&line=7c3aed&point=4DFF88&area=true&hide_border=true" alt="Activity graph" />
+</p>
+
+<!-- Optional, keep only if it loads reliably
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=niduwara-j&theme=dracula&no-frame=true&no-bg=true&margin-w=10&row=1" alt="trophies" />
+</p>
+-->
 🌐 Connect With Me
 <p align="center"> <a href="https://www.linkedin.com/in/niduwara-jayasiri-2169a33ab/"> <img src="https://img.shields.io/badge/LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
 🐍 Contribution Snake
