@@ -203,7 +203,7 @@ Security Engineer
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/niduwara-j/niduwara-j/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/niduwara-j/niduwara-j/output/github-snake-dark.svg" alt="snake animation" />
 </p>
 
 ## 📂 Featured Projects
