@@ -41,6 +41,7 @@ Build secure, scalable, and resilient systems
 
 $ target_role
 Security Engineer
+```
 
 🔐 Security Posture
 <details open> <summary><b>Profile snapshot</b></summary>
@@ -143,4 +144,4 @@ Linux hardening scripts
 Networking labs
 Python security tools
 Small defensive security projects
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,19,20,21,22&height=120&section=footer" /> </p> ```
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,19,20,21,22&height=120&section=footer" /> </p> 
