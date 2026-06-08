@@ -67,4 +67,5 @@ Security Engineer
 
 ## 📂 Featured Projects
 
-Projects will be pinned below as they are completed.
+🚧 Currently building my cybersecurity and automation portfolio.
+Projects will appear here as they are completed.
