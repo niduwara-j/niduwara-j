@@ -90,22 +90,21 @@ become stronger in security engineering
 
 ## 🚀 Skill Pipeline
 
-```mermaid
-flowchart LR
-    A[Networking Fundamentals] --> B[Linux Hardening]
-    B --> C[Python Automation]
-    C --> D[Security Operations]
-    D --> E[Threat Detection]
-    E --> F[Penetration Testing]
-    F --> G[Security Engineering]
-
-    classDef purple fill:#2d1b47,stroke:#b388ff,color:#ffffff;
-    classDef green fill:#10261a,stroke:#4DFF88,color:#ffffff;
-
-    class A,B purple;
-    class C,D,E,F,G green;
-```
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Networking_Fundamentals-7c3aed?style=flat-square" />
+  <img src="https://img.shields.io/badge/→-0d1117?style=flat-square" />
+  <img src="https://img.shields.io/badge/Linux_Hardening-7c3aed?style=flat-square" />
+  <img src="https://img.shields.io/badge/→-0d1117?style=flat-square" />
+  <img src="https://img.shields.io/badge/Python_Automation-4DFF88?style=flat-square" />
+  <img src="https://img.shields.io/badge/→-0d1117?style=flat-square" />
+  <img src="https://img.shields.io/badge/Security_Operations-4DFF88?style=flat-square" />
+  <img src="https://img.shields.io/badge/→-0d1117?style=flat-square" />
+  <img src="https://img.shields.io/badge/Threat_Detection-4DFF88?style=flat-square" />
+  <img src="https://img.shields.io/badge/→-0d1117?style=flat-square" />
+  <img src="https://img.shields.io/badge/Penetration_Testing-4DFF88?style=flat-square" />
+  <img src="https://img.shields.io/badge/→-0d1117?style=flat-square" />
+  <img src="https://img.shields.io/badge/Security_Engineering-7c3aed?style=flat-square" />
+</p>
 ---
 
 ## 📡 Active Focus
