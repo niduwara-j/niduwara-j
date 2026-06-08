@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="./midnight_purple_cyber_banner.gif" width="100%">
+</p>
+<p align="center">
   <img src="assets/midnight_purple_cyber_banner.gif" width="1000" alt="Midnight purple cyber banner" />
 </p>
 
