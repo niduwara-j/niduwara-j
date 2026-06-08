@@ -105,7 +105,6 @@ become stronger in security engineering
   <img src="https://img.shields.io/badge/→-0d1117?style=flat-square" />
   <img src="https://img.shields.io/badge/Security_Engineering-7c3aed?style=flat-square" />
 </p>
----
 
 ## 📡 Active Focus
 
