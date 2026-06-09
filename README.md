@@ -85,9 +85,9 @@ become stronger in security engineering
 flowchart LR
     A[Networking Fundamentals] --> B[Linux Hardening]
     B --> C[Python Automation]
-    C --> D[Security Operations]
+    C --> D[SecOps]
     D --> E[Threat Detection]
-    E --> F[Pentest Labs]
+    E --> F[Pentest]
     F --> G[Security Engineering]
 
     classDef purple fill:#6d28d9,stroke:#8b5cf6,color:#ffffff;
