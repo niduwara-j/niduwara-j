@@ -219,11 +219,11 @@ threat_level:
 target:
   role: security_engineer
 ```
-
+<!--
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=niduwara-j&theme=github-dark&bg_color=0d1117&color=4DFF88&line=7c3aed&point=4DFF88&area=true&hide_border=true" alt="Activity graph" />
 </p>
-
+-->
 ---
 
 ## 🌐 Connect With Me
