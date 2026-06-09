@@ -166,23 +166,18 @@ Security Engineer
 ## 📊 Live Telemetry
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niduwara-j&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" height="180" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niduwara-j&layout=compact&theme=midnight-purple&hide_border=true&border_radius=12" height="180" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=niduwara-j&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=4DFF88&text_color=ffffff&icon_color=7c3aed&rank_icon=github" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niduwara-j&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=4DFF88&text_color=ffffff" height="165" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=niduwara-j&theme=midnight-purple&hide_border=true&border_radius=12" height="180" alt="GitHub streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=niduwara-j&theme=github-dark&bg_color=0d1117&color=4DFF88&line=7c3aed&point=4DFF88&area=true&hide_border=true" alt="Activity graph" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=niduwara-j&theme=github-compact&bg_color=0d1117&color=4DFF88&line=7c3aed&point=4DFF88&area=true&hide_border=true" alt="Activity graph" />
-</p>
-
-<!-- Optional, keep only if it loads reliably
+<!-- Optional, keep only if it loads reliably-->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=niduwara-j&theme=dracula&no-frame=true&no-bg=true&margin-w=10&row=1" alt="trophies" />
 </p>
--->
 🌐 Connect With Me
 <p align="center"> <a href="https://www.linkedin.com/in/niduwara-jayasiri-2169a33ab/"> <img src="https://img.shields.io/badge/LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
 🐍 Contribution Snake
