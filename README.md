@@ -35,7 +35,6 @@
     <img src="https://img.shields.io/badge/SECURITY%20OPS-7c3aed?style=for-the-badge" />
   </a>
 </p>
----
 
 ## 💫 About Me
 
