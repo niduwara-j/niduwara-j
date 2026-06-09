@@ -235,6 +235,8 @@ Security Engineer
   </a>
 </p>
 
+---
+
 ## 📊 Live Telemetry
 
 ```yaml
