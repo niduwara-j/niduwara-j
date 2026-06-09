@@ -19,9 +19,17 @@
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=18,19,20,21,22&height=60&section=header&text=SECURITY%20OPERATIONS%20DESK&fontSize=24&fontColor=ffffff&animation=twinkling" />
-</p>
+## 🖥️ SOC TERMINAL
+
+```bash
+root@security-console:~$
+
+identity      : Cyber Security Undergraduate
+focus         : Linux | Networking | Python
+mode          : Defensive Security
+threat_level  : LOW
+target_role   : Security Engineer
+```
 
 ```bash
 $ whoami
@@ -73,19 +81,26 @@ become stronger in security engineering
 ## 🚀 Skill Pipeline
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Networking-6d28d9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/→-0d1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Linux-4DFF88?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/→-0d1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-6d28d9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/→-0d1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SecOps-4DFF88?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/→-0d1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Pentest-6d28d9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/→-0d1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Security%20Engineering-4DFF88?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/NETWORKING-7c3aed?style=for-the-badge" />
+➜
+<img src="https://img.shields.io/badge/LINUX-4DFF88?style=for-the-badge" />
+➜
+<img src="https://img.shields.io/badge/PYTHON-7c3aed?style=for-the-badge" />
+➜
+<img src="https://img.shields.io/badge/SECOPS-4DFF88?style=for-the-badge" />
+➜
+<img src="https://img.shields.io/badge/PENTEST-7c3aed?style=for-the-badge" />
+➜
+<img src="https://img.shields.io/badge/SECURITY_ENGINEERING-4DFF88?style=for-the-badge" />
+
 </p>
 
+<p align="center">
+
+◀ ▲ ▼ ▶ ⟳
+
+</p>
 ## 📡 Active Focus // Security Matrix
 
 <p align="center">
@@ -136,18 +151,27 @@ Security Engineer
 
 ## 📊 Live Telemetry
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niduwara-j&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=4DFF88&text_color=ffffff&icon_color=7c3aed&rank_icon=github" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niduwara-j&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=4DFF88&text_color=ffffff" height="165" alt="Top languages" />
-</p>
+```yaml
+linux:
+  status: active
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=niduwara-j&theme=github-dark&bg_color=0d1117&color=4DFF88&line=7c3aed&point=4DFF88&area=true&hide_border=true" alt="Activity graph" />
-</p>
+networking:
+  status: active
 
-<!-- Optional, keep only if it loads reliably-->
+python_automation:
+  status: building
+
+security_operations:
+  status: monitoring
+
+threat_level:
+  value: low
+
+target:
+  role: security_engineer
+```
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=niduwara-j&theme=dracula&no-frame=true&no-bg=true&margin-w=10&row=1" alt="trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=niduwara-j&theme=github-dark&bg_color=0d1117&color=4DFF88&line=7c3aed&point=4DFF88&area=true&hide_border=true" />
 </p>
 🌐 Connect With Me
 <p align="center"> <a href="https://www.linkedin.com/in/niduwara-jayasiri-2169a33ab/"> <img src="https://img.shields.io/badge/LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
@@ -159,15 +183,17 @@ Security Engineer
 <p align="center">
   <img src="./binary_terminal_cyber.gif" width="900" alt="Security feed animation" />
 </p>
-📂 Featured Projects
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=18,19,20,21,22&height=52&section=header&text=FEATURED%20PROJECTS&fontSize=22&fontColor=ffffff&animation=twinkling" /> </p>
+## 📂 Project Arsenal
 
-🚧 Building my cybersecurity and automation portfolio.
+### 🔐 Linux Hardening Toolkit
+Building scripts and system hardening utilities.
 
-Soon to include:
+### 🌐 Networking Labs
+Hands-on networking and protocol analysis labs.
 
-Linux hardening scripts
-Networking labs
-Python security tools
-Small defensive security projects
+### 🐍 Python Security Automation
+Automation tools for monitoring and security workflows.
+
+### 🛡️ Defensive Security Projects
+Security-focused projects and practical experiments.
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,19,20,21,22&height=120&section=footer" /> </p> 
