@@ -1,8 +1,13 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/niduwara-j/niduwara-j/main/cyber_profile_hd.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/niduwara-j/niduwara-j/main/cyber_profile_hd.gif" width="100%" alt="Cyber profile banner" />
 </p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=4DFF88&center=true&vCenter=true&width=920&lines=Cyber+Security+Undergraduate;Linux+%26+Networking+Focused;Python+Automation+for+Security;Defensive+Security+%7C+Hardening+%7C+Monitoring;Building+toward+Security+Engineering" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <b>Cyber Security Undergraduate @ SLIIT · Year 3 · Linux · Networking · Python Automation · Defensive Security</b>
 </p>
 
 <p align="center">
@@ -19,6 +24,31 @@
 
 ---
 
+## 💫 About Me
+
+- 🐧 Linux & System Administration enthusiast
+- 🌐 Focused on Network Security and Security Operations
+- 🧠 Strengthening Penetration Testing and Secure Infrastructure skills
+- ⚙️ Building Python automation for practical security and IT tasks
+- 🎯 Aiming to grow into a strong cybersecurity professional
+
+---
+
+## 🔥 Project Arsenal
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux_Hardening_Toolkit-7c3aed?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Networking_Labs-4DFF88?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python_Security_Automation-7c3aed?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Defensive_Security_Projects-4DFF88?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <sub>building tools, labs, and defensive workflows</sub>
+</p>
+
+---
+
 ## 🖥️ SOC TERMINAL
 
 ```bash
@@ -31,52 +61,7 @@ threat_level  : LOW
 target_role   : Security Engineer
 ```
 
-```bash
-$ whoami
-niduwara-j
-
-$ role
-Cyber Security Undergraduate
-
-$ current_focus
-Linux
-Networking
-Python Automation
-
-$ mission
-Build secure, scalable, and resilient systems
-
-$ target_role
-Security Engineer
-```
-
-🔐 Security Posture
-<details open> <summary><b>Profile snapshot</b></summary>
-Focused on Linux, networking, and Python automation
-Building toward defensive security and security operations
-Aiming for stronger penetration testing and secure infrastructure skills
-Working on projects that show real technical growth
-</details> <details> <summary><b>What I am sharpening right now</b></summary>
-Linux administration
-Network security fundamentals
-Python tooling for security and automation
-Penetration testing basics
-Secure infrastructure concepts
-</details>
-
-🧠 Threat Model
-
-> asset
-skills + projects + consistency
-
-> main_attack_surface
-lack of real-world repos
-
-> defense_strategy
-ship projects, document them, keep building
-
-> objective
-become stronger in security engineering
+---
 
 ## 🚀 Skill Pipeline
 
@@ -97,6 +82,9 @@ flowchart LR
     class A,B purple;
     class C,D,E,F,G green;
 ```
+
+---
+
 ## 📡 Active Focus
 
 <p align="center">
@@ -116,6 +104,48 @@ flowchart LR
 
 ---
 
+<!--
+## 🔐 Security Posture
+
+<details open>
+<summary><b>Profile snapshot</b></summary>
+
+- Focused on Linux, networking, and Python automation
+- Building toward defensive security and security operations
+- Aiming for stronger penetration testing and secure infrastructure skills
+- Working on projects that show real technical growth
+
+</details>
+
+<details>
+<summary><b>What I am sharpening right now</b></summary>
+
+- Linux administration
+- Network security fundamentals
+- Python tooling for security and automation
+- Penetration testing basics
+- Secure infrastructure concepts
+
+</details>
+-->
+
+<!--
+## 🧠 Threat Model
+
+> asset
+skills + projects + consistency
+
+> main_attack_surface
+lack of real-world repos
+
+> defense_strategy
+ship projects, document them, keep building
+
+> objective
+become stronger in security engineering
+-->
+
+<!--
 ## 🎯 Current Mission Log
 
 ```text
@@ -136,6 +166,7 @@ Secure Infrastructure
 > target_role
 Security Engineer
 ```
+-->
 
 ---
 
@@ -166,6 +197,7 @@ Security Engineer
 </p>
 
 ---
+
 ## 📊 Live Telemetry
 
 ```yaml
@@ -187,15 +219,30 @@ threat_level:
 target:
   role: security_engineer
 ```
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=niduwara-j&theme=github-dark&bg_color=0d1117&color=4DFF88&line=7c3aed&point=4DFF88&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=niduwara-j&theme=github-dark&bg_color=0d1117&color=4DFF88&line=7c3aed&point=4DFF88&area=true&hide_border=true" alt="Activity graph" />
 </p>
 
-🌐 Connect With Me
-<p align="center"> <a href="https://www.linkedin.com/in/niduwara-jayasiri-2169a33ab/"> <img src="https://img.shields.io/badge/LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
+---
 
-🐍 Contribution Snake
-<p align="center"> <img src="https://raw.githubusercontent.com/niduwara-j/niduwara-j/output/github-snake-dark.svg" alt="snake animation" /> </p>
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/niduwara-jayasiri/">
+    <img src="https://img.shields.io/badge/LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/niduwara-j/niduwara-j/output/github-snake-dark.svg" alt="snake animation" />
+</p>
+
+---
 
 ## 🖥️ Security Operations Feed
 
@@ -205,6 +252,7 @@ target:
 
 <br>
 
+<!--
 ## 📂 Project Arsenal
 
 <p align="center">
@@ -217,4 +265,8 @@ target:
 <p align="center">
   <sub>building tools, labs, and defensive workflows</sub>
 </p>
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,19,20,21,22&height=120&section=footer" /> </p> 
+-->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,19,20,21,22&height=120&section=footer" />
+</p>
