@@ -15,13 +15,26 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CYBER%20SECURITY-7c3aed?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LINUX-4DFF88?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NETWORKING-7c3aed?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PYTHON-4DFF88?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SECURITY%20OPS-7c3aed?style=for-the-badge" />
-</p>
+  <a href="https://owasp.org/">
+    <img src="https://img.shields.io/badge/CYBER%20SECURITY-7c3aed?style=for-the-badge" />
+  </a>
 
+  <a href="https://www.linuxfoundation.org/">
+    <img src="https://img.shields.io/badge/LINUX-4DFF88?style=for-the-badge" />
+  </a>
+
+  <a href="https://www.netacad.com/">
+    <img src="https://img.shields.io/badge/NETWORKING-7c3aed?style=for-the-badge" />
+  </a>
+
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/PYTHON-4DFF88?style=for-the-badge" />
+  </a>
+
+  <a href="https://attack.mitre.org/">
+    <img src="https://img.shields.io/badge/SECURITY%20OPS-7c3aed?style=for-the-badge" />
+  </a>
+</p>
 ---
 
 ## 💫 About Me
