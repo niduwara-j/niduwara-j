@@ -181,21 +181,45 @@ Security Engineer
 - [ ] Cloud Security
 
 ---
-
 ## 🛠️ Ops Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-7c3aed?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-4DFF88?style=for-the-badge&logo=python&logoColor=0d1117" />
-  <img src="https://img.shields.io/badge/Java-7c3aed?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4DFF88?style=for-the-badge&logo=gnu-bash&logoColor=0d1117" />
-  <img src="https://img.shields.io/badge/JavaScript-7c3aed?style=for-the-badge&logo=javascript&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/MySQL-4DFF88?style=for-the-badge&logo=mysql&logoColor=0d1117" />
-  <img src="https://img.shields.io/badge/Git-7c3aed?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-4DFF88?style=for-the-badge&logo=github&logoColor=0d1117" />
-  <img src="https://img.shields.io/badge/Cisco-7c3aed?style=for-the-badge&logo=cisco&logoColor=white" />
-</p>
+  <a href="https://www.c-language.org/">
+    <img src="https://img.shields.io/badge/C-7c3aed?style=for-the-badge&logo=c&logoColor=white" />
+  </a>
 
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-4DFF88?style=for-the-badge&logo=python&logoColor=0d1117" />
+  </a>
+
+  <a href="https://openjdk.org/">
+    <img src="https://img.shields.io/badge/Java-7c3aed?style=for-the-badge&logo=openjdk&logoColor=white" />
+  </a>
+
+  <a href="https://www.gnu.org/software/bash/">
+    <img src="https://img.shields.io/badge/Bash-4DFF88?style=for-the-badge&logo=gnu-bash&logoColor=0d1117" />
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://img.shields.io/badge/JavaScript-7c3aed?style=for-the-badge&logo=javascript&logoColor=ffffff" />
+  </a>
+
+  <a href="https://www.mysql.com/">
+    <img src="https://img.shields.io/badge/MySQL-4DFF88?style=for-the-badge&logo=mysql&logoColor=0d1117" />
+  </a>
+
+  <a href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/Git-7c3aed?style=for-the-badge&logo=git&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-4DFF88?style=for-the-badge&logo=github&logoColor=0d1117" />
+  </a>
+
+  <a href="https://www.cisco.com/">
+    <img src="https://img.shields.io/badge/Cisco-7c3aed?style=for-the-badge&logo=cisco&logoColor=white" />
+  </a>
+</p>
 ---
 
 ## 📊 Live Telemetry
