@@ -80,22 +80,22 @@ become stronger in security engineering
 
 ## 🚀 Skill Pipeline
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Networking-6d28d9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/→-0d1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Linux-4DFF88?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/→-0d1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-6d28d9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/→-0d1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SecOps-4DFF88?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/→-0d1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Pentest-6d28d9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/→-0d1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Security_Engineering-4DFF88?style=for-the-badge" />
-</p>
+```mermaid
+%%{init: {'theme':'dark','flowchart':{'nodeSpacing':18,'rankSpacing':28}}}%%
+flowchart LR
+    A[Networking Fundamentals] --> B[Linux Hardening]
+    B --> C[Python Automation]
+    C --> D[Security Operations]
+    D --> E[Threat Detection]
+    E --> F[Pentest Labs]
+    F --> G[Security Engineering]
 
-<p align="center">◀ ▲ ▼ ▶ ⟳</p>
+    classDef purple fill:#6d28d9,stroke:#8b5cf6,color:#ffffff;
+    classDef green fill:#0f2d1f,stroke:#4DFF88,color:#ffffff;
 
+    class A,B purple;
+    class C,D,E,F,G green;
+```
 ## 📡 Active Focus
 
 <p align="center">
