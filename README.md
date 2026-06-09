@@ -81,27 +81,22 @@ become stronger in security engineering
 ## 🚀 Skill Pipeline
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/NETWORKING-7c3aed?style=for-the-badge" />
-➜
-<img src="https://img.shields.io/badge/LINUX-4DFF88?style=for-the-badge" />
-➜
-<img src="https://img.shields.io/badge/PYTHON-7c3aed?style=for-the-badge" />
-➜
-<img src="https://img.shields.io/badge/SECOPS-4DFF88?style=for-the-badge" />
-➜
-<img src="https://img.shields.io/badge/PENTEST-7c3aed?style=for-the-badge" />
-➜
-<img src="https://img.shields.io/badge/SECURITY_ENGINEERING-4DFF88?style=for-the-badge" />
-
+  <img src="https://img.shields.io/badge/Networking-6d28d9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/→-0d1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linux-4DFF88?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/→-0d1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-6d28d9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/→-0d1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SecOps-4DFF88?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/→-0d1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pentest-6d28d9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/→-0d1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Security_Engineering-4DFF88?style=for-the-badge" />
 </p>
 
-<p align="center">
+<p align="center">◀ ▲ ▼ ▶ ⟳</p>
 
-◀ ▲ ▼ ▶ ⟳
-
-</p>
-## 📡 Active Focus // Security Matrix
+## 📡 Active Focus
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux%20Hardening-Learning-7c3aed?style=for-the-badge" />
@@ -185,15 +180,14 @@ target:
 </p>
 ## 📂 Project Arsenal
 
-### 🔐 Linux Hardening Toolkit
-Building scripts and system hardening utilities.
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux_Hardening_Toolkit-7c3aed?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Networking_Labs-4DFF88?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python_Security_Automation-7c3aed?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Defensive_Security_Projects-4DFF88?style=for-the-badge" />
+</p>
 
-### 🌐 Networking Labs
-Hands-on networking and protocol analysis labs.
-
-### 🐍 Python Security Automation
-Automation tools for monitoring and security workflows.
-
-### 🛡️ Defensive Security Projects
-Security-focused projects and practical experiments.
+<p align="center">
+  <sub>building tools, labs, and defensive workflows</sub>
+</p>
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,19,20,21,22&height=120&section=footer" /> </p> 
