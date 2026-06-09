@@ -89,42 +89,13 @@ become stronger in security engineering
 ## 📡 Active Focus // Security Matrix
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux_Hardening-Learning-7c3aed?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Packet_Analysis-Active-4DFF88?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python_Tools-Building-7c3aed?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Threat_Detection-Next-4DFF88?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linux%20Hardening-Learning-7c3aed?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Packet%20Analysis-Active-4DFF88?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python%20Tools-Building-7c3aed?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Threat%20Detection-Next-4DFF88?style=for-the-badge" />
 </p>
 
-<table>
-  <tr>
-    <td><b>Layer</b></td>
-    <td><b>Status</b></td>
-    <td><b>Move</b></td>
-  </tr>
-  <tr>
-    <td>Linux</td>
-    <td>🟣 Hardening</td>
-    <td>Scripts + services</td>
-  </tr>
-  <tr>
-    <td>Networking</td>
-    <td>🟢 Active</td>
-    <td>Labs + packet flow</td>
-  </tr>
-  <tr>
-    <td>Python</td>
-    <td>🟢 Building</td>
-    <td>Security utilities</td>
-  </tr>
-  <tr>
-    <td>Detection</td>
-    <td>🟣 Next</td>
-    <td>Logs + alerts</td>
-  </tr>
-</table>
-
-```bash
-$ status
+```text
 [OK] linux hardening
 [OK] packet analysis
 [OK] automation scripts
@@ -188,7 +159,6 @@ Security Engineer
 <p align="center">
   <img src="./binary_terminal_cyber.gif" width="900" alt="Security feed animation" />
 </p>
-
 📂 Featured Projects
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=18,19,20,21,22&height=52&section=header&text=FEATURED%20PROJECTS&fontSize=22&fontColor=ffffff&animation=twinkling" /> </p>
 
