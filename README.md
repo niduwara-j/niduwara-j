@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="./cyber_profile_hd.gif" width="100%" alt="Cyber banner" />
+  <img src="https://raw.githubusercontent.com/niduwara-j/niduwara-j/main/cyber_profile_hd.gif" width="100%" />
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=4DFF88&center=true&vCenter=true&width=920&lines=Cyber+Security+Undergraduate;Linux+%26+Networking+Focused;Python+Automation+for+Security;Defensive+Security+%7C+Hardening+%7C+Monitoring;Building+toward+Security+Engineering" alt="Typing SVG" />
 </p>
