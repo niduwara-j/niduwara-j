@@ -73,17 +73,17 @@ become stronger in security engineering
 ## 🚀 Skill Pipeline
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Networking-7c3aed?style=flat-square" />
-  <img src="https://img.shields.io/badge/→-0d1117?style=flat-square" />
-  <img src="https://img.shields.io/badge/Linux-4DFF88?style=flat-square" />
-  <img src="https://img.shields.io/badge/→-0d1117?style=flat-square" />
-  <img src="https://img.shields.io/badge/Python-7c3aed?style=flat-square" />
-  <img src="https://img.shields.io/badge/→-0d1117?style=flat-square" />
-  <img src="https://img.shields.io/badge/SecOps-4DFF88?style=flat-square" />
-  <img src="https://img.shields.io/badge/→-0d1117?style=flat-square" />
-  <img src="https://img.shields.io/badge/Pentest-7c3aed?style=flat-square" />
-  <img src="https://img.shields.io/badge/→-0d1117?style=flat-square" />
-  <img src="https://img.shields.io/badge/Security_Engineering-4DFF88?style=flat-square" />
+  <img src="https://img.shields.io/badge/Networking-6d28d9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/→-0d1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linux-4DFF88?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/→-0d1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-6d28d9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/→-0d1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SecOps-4DFF88?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/→-0d1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pentest-6d28d9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/→-0d1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Security%20Engineering-4DFF88?style=for-the-badge" />
 </p>
 
 ## 📡 Active Focus // Security Matrix
