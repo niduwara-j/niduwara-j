@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./midnight_purple_cyber_banner_v3.gif" width="100%" alt="Security operations banner" />
+  <img src="./cyber_profile_hd.gif" width="100%" alt="Cyber banner" />
 </p>
 
 <p align="center">
