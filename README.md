@@ -36,6 +36,8 @@
   </a>
 </p>
 
+---
+
 ## 💫 About Me
 
 - 🐧 Linux & System Administration enthusiast
