@@ -190,8 +190,10 @@ target:
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=niduwara-j&theme=github-dark&bg_color=0d1117&color=4DFF88&line=7c3aed&point=4DFF88&area=true&hide_border=true" />
 </p>
+
 🌐 Connect With Me
 <p align="center"> <a href="https://www.linkedin.com/in/niduwara-jayasiri-2169a33ab/"> <img src="https://img.shields.io/badge/LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
+
 🐍 Contribution Snake
 <p align="center"> <img src="https://raw.githubusercontent.com/niduwara-j/niduwara-j/output/github-snake-dark.svg" alt="snake animation" /> </p>
 
@@ -200,6 +202,9 @@ target:
 <p align="center">
   <img src="./binary_terminal_cyber.gif" width="900" alt="Security feed animation" />
 </p>
+
+<br>
+
 ## 📂 Project Arsenal
 
 <p align="center">
