@@ -220,7 +220,6 @@ Security Engineer
     <img src="https://img.shields.io/badge/Cisco-7c3aed?style=for-the-badge&logo=cisco&logoColor=white" />
   </a>
 </p>
----
 
 ## 📊 Live Telemetry
 
