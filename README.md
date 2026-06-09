@@ -83,12 +83,13 @@ become stronger in security engineering
 ```mermaid
 %%{init: {'theme':'dark','flowchart':{'nodeSpacing':18,'rankSpacing':28}}}%%
 flowchart LR
-    A[Networking Fundamentals] --> B[Linux Hardening]
-    B --> C[Python Automation]
+    A[Networking] --> B[Linux]
+    B --> C[Python]
     C --> D[SecOps]
-    D --> E[Threat Detection]
+    D --> E[Detection]
     E --> F[Pentest]
-    F --> G[Security Engineering]
+    F --> G[Security Engineer]
+    G --> H[" "]
 
     classDef purple fill:#6d28d9,stroke:#8b5cf6,color:#ffffff;
     classDef green fill:#0f2d1f,stroke:#4DFF88,color:#ffffff;
