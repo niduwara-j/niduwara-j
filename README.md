@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=4DFF88&center=true&vCenter=true&width=920&lines=Cyber+Security+Undergraduate;Linux+%26+Networking+Focused;Python+Automation+for+Security;Defensive+Security+%7C+Hardening+%7C+Monitoring;Building+toward+Security+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=4DFF88&center=true&vCenter=true&width=920&lines=Cyber+Security+Undergraduate;Linux+%26+Networking+Focused;Python+Automation+for+Security;Offensive+Security+%7C+Hardening+%7C+Monitoring;Building+toward+Security+Engineering" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <b>Cyber Security Undergraduate @ SLIIT · Year 3 · Linux · Networking · Python Automation · Defensive Security</b>
+  <b>Cyber Security Undergraduate @ SLIIT · Year 3 · Linux · Networking · Python Automation · Offensive Security</b>
 </p>
 
 <p align="center">
@@ -54,11 +54,11 @@
   <img src="https://img.shields.io/badge/Linux_Hardening_Toolkit-7c3aed?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Networking_Labs-4DFF88?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Python_Security_Automation-7c3aed?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Defensive_Security_Projects-4DFF88?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Offensive_Security_Projects-4DFF88?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <sub>building tools, labs, and defensive workflows</sub>
+  <sub>building tools, labs, and Offensive workflows</sub>
 </p>
 
 ---
@@ -70,7 +70,7 @@ root@security-console:~$
 
 identity      : Cyber Security Undergraduate
 focus         : Linux | Networking | Python
-mode          : Defensive Security
+mode          : Offensive Security
 threat_level  : LOW
 target_role   : Security Engineer
 ```
@@ -125,7 +125,7 @@ flowchart LR
 <summary><b>Profile snapshot</b></summary>
 
 - Focused on Linux, networking, and Python automation
-- Building toward defensive security and security operations
+- Building toward Offensive security and security operations
 - Aiming for stronger penetration testing and secure infrastructure skills
 - Working on projects that show real technical growth
 
@@ -167,7 +167,7 @@ become stronger in security engineering
 niduwara-j
 
 > mode
-defensive security
+Offensive security
 
 > current_stack
 Linux | Networking | Python Automation
@@ -298,11 +298,11 @@ target:
   <img src="https://img.shields.io/badge/Linux_Hardening_Toolkit-7c3aed?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Networking_Labs-4DFF88?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Python_Security_Automation-7c3aed?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Defensive_Security_Projects-4DFF88?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Offensive_Security_Projects-4DFF88?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <sub>building tools, labs, and defensive workflows</sub>
+  <sub>building tools, labs, and Offensive workflows</sub>
 </p>
 -->
 
